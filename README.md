@@ -1,6 +1,6 @@
 The dataset that I used is: "telecom_churn.csv"
 
-Features
+### **Features:** 
 
 Exploratory Data Analysis (EDA):
 
